@@ -24,9 +24,5 @@
 - Seguridad con autenticación (por implementar)
 - IA conectada mediante una API externa (en la versión inicial)
 
-## 🛠️ Instalación (versión futura)
 
-```bash
-git clone https://github.com/tu-usuario/miverso.git
-cd miverso
-# Instrucciones para frontend y backend aquí...
+
