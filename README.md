@@ -1,5 +1,4 @@
-# MiVerso
-Aplicación de diario personal con inteligencia artificial para registrar pensamientos y conversar con una versión simulada de ti mismo.
+
 # 🌌 MiVerso
 
 **MiVerso** es una aplicación de diario personal con inteligencia artificial que permite a los usuarios registrar pensamientos, reflexionar y conversar con una IA que simula su forma de pensar.
